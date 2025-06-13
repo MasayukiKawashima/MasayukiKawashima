@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 I'm Masayuki Kawashima
+
+## About me
+
+- I'm a "kaki" (Japanese persimmon) farmer in Japan.
+- I am interested in digital content creation and am currently studying iOS app development in particular.
+- I am currently seeking a job as an iOS app engineer.
 
 <!--
 **MasayukiKawashima/MasayukiKawashima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
