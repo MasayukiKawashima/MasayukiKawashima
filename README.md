@@ -5,7 +5,6 @@
 - :heart_eyes: I'm interested in digital content creation and am currently studying iOS app development in particular.
 - :iphone: I'm releasing an iOS application. I would appreciate it if you could download it from the link provided in the repository :).
 - :necktie: I'm currently seeking a job as an iOS app engineer.
-  [This is my profile on Wantedly.](https://www.wantedly.com/id/masayuki_kawashima_p)
 
 <!--
 **MasayukiKawashima/MasayukiKawashima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
