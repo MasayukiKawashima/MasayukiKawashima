@@ -5,7 +5,7 @@
 - :heart_eyes: デジタルコンテンツ制作に興味があり、現在は特にiOSアプリ開発を学んでいます。
 - :book: 学習内容を[Qiita](https://qiita.com/poppinmasa)に投稿しています。
 - :iphone: iOSアプリを個人開発しています。[ジドスタ](https://itunes.apple.com/jp/app/id6741679575?mt=8) [いきなりメモ](https://itunes.apple.com/jp/app/6752865794?mt=8)
-- :necktie: 現在はiOSアプリエンジニアを目指して求職活動です.
+- :necktie: iOSアプリエンジニアを目指して求職活動です.
 
 <!--
 **MasayukiKawashima/MasayukiKawashima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
