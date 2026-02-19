@@ -2,9 +2,10 @@
 
 ## About me
 
-- :heart_eyes: I'm interested in digital content creation and am currently studying iOS app development in particular.
-- :iphone: I'm releasing an iOS application. I would appreciate it if you could download it from the link provided in the repository :).
-- :necktie: I'm currently seeking a job as an iOS app engineer.
+- :heart_eyes: デジタルコンテンツ制作に興味があり、現在は特にiOSアプリ開発を学んでいます。
+- :book: 学習内容を[Qiita](https://qiita.com/poppinmasa)に投稿しています。
+- :iphone: iOSアプリを個人開発しています。[ジドスタ](https://itunes.apple.com/jp/app/id6741679575?mt=8) [いきなりメモ](https://itunes.apple.com/jp/app/6752865794?mt=8)
+- :necktie: 現在はiOSアプリエンジニアを目指して求職活動です.
 
 <!--
 **MasayukiKawashima/MasayukiKawashima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
